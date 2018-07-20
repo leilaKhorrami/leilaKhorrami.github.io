@@ -1,0 +1,18 @@
+h1 {font-size:260px;
+    color:Blue;
+    font-family:'Arial Black';}
+
+h2 {font-size:30px;
+    color:Navy;
+    font-family:'Arial Black';}
+
+p4:hover, p3:hover, p2:hover {
+  background-color: #FE2E9A ;
+}
+
+p4, p3, p2
+{
+    font-size:30px;
+    color:Blue;
+    font-family:'Arial Black';
+}
